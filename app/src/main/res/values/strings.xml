@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> Cafeteria Atualizar Cursores!!</string>
+    <string name="logo">Logo Cafeteria</string>
+    <string-array name="opcoes">
+        <item>Bebidas</item>
+        <item>Comida</item>
+        <item>Lojas </item>
+    </string-array>
+
+    <string name="favorita"> Favorita</string>
+    <string name="favoritas">Bebidas Favoritas</string>
+</resources>
